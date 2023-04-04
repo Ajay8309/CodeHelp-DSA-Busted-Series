@@ -13,7 +13,7 @@ int main() {
         int j = 1;
         while(j<=n) {
             cout<< "*";
-            j = j+1; 
+            j = j+10; 
         }
         cout<<endl;
 
